@@ -32,20 +32,30 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM stands for Document Object Model and is what the browser exposes to the JavaScript runtime to allow JavaScript code to manipulate the page.
+
 2. What is an event?
+
+Events are actions or occurrences that happen in the system you are programming, which the system tells you about so you can respond to them in some way if desired.
 
 3. What is an event listener?
 
+An event listener is a procedure or function in a computer program that waits for an event to occur. 
+
 4. Why would we convert a NodeList into an Array?
+
+We convert a NodeList into arrays so that we can take advantage of methods we wouldn't be able to use without converting it to an Array. 
 
 5. What is a component?
 
+A component is a small, potentially re-usable set of logic, behaviors and interface elements.
+
 ### Git Set up
 
-* [ ] Fork the project into your GitHub user account
-* [ ] Clone the forked project into a directory on your machine
+* [ check ] Fork the project into your GitHub user account
+* [ check ] Clone the forked project into a directory on your machine
 * [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-* [ ] You are now ready to build this project with your preferred IDE
+* [ check ] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
 
